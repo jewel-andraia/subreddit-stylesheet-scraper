@@ -1,0 +1,11 @@
+bin/
+include/
+lib/
+stylesheets/
+
+# VIM
+*.sw*
+
+# Python
+.pyc
+__pycache__/
